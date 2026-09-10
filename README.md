@@ -1,29 +1,50 @@
-<img src="https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e" width="64" />
+<p align="center">
+  <img src="https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e" width="96" />
+</p>
 
-# Dopamine
+<h1 align="center">Dopamine</h1>
 
-A root-hide jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64). More details will follow here soon.
+<p align="center">
+  A root-hide jailbreak for:<br/>
+  iOS 15.0 – 17.3.1 (arm64e) • iOS 15.0 – 18.7.1 & 26.0 – 26.0.1 (A12/A13) • iOS 15.0 – 18.7.1 (arm64)
+</p>
 
-source code this is collaboration relaxin and dopamine rootless 
-- changes :
-+ Structure rootless delected and replace roothide of relaxin 
-  + added Jailbreakd to module for roothide app allow blacklist working hide jailbreak
-  + added roothide app to source code assist process jailbreak auto install
-  + added dependence necessary to install tweak roothide
-  + added Symlinks jbroot-*********** to active and hide trace jailbreak
-+ added and customed function remove jailbreak both non-jailbroken and jailbroken
-+ my tool jailbreak tested on ios 17 18
+<p align="center">
+  <em>More details coming soon.</em>
+</p>
 
-The following are some of the people who helped me during the source code development process :
-Contact via Discord :
- + wansan0730 ( Role : tester , assistant )
- + lpgh3005 ( Role : tester )
- + tv99 ( Role : tester )
+---
 
+## About this project
 
+This is a **collaborative rootless build**, based on [**Relaxin**](https://github.com/owngoal-dev/Relaxin) and [**Dopamine**](https://github.com/opa334/Dopamine).
 
-Please note that all issues related to version support will be deleted without response.
+## ✨ What's changed
 
-Official website / download: https://ellekit.space/dopamine/
+- **Rootless structure overhaul** — removed the old rootless layout and replaced it with RootHide, adapted from Relaxin.
+  - Added **Jailbreakd** as a module for the RootHide app, enabling the blacklist feature that hides jailbreak traces.
+  - Integrated the **RootHide app** into the source to assist with automatic jailbreak installation.
+  - Added the necessary dependencies for installing RootHide tweaks.
+  - Added **Symlinks** (`jbroot-***********`) to keep the jailbreak active while hiding its traces.
+- Added and customized a **function to fully remove the jailbreak**, working on both jailbroken and non-jailbroken devices.
+- Tested and confirmed working on **iOS 17 and iOS 18**.
 
+## 🙌 Credits
 
+Thanks to everyone who helped during development. Reach them on Discord:
+
+| Name | Role |
+|------|------|
+| **wansan0730** | Tester, Assistant |
+| **lpgh3005** | Tester |
+| **tv99** | Tester |
+
+## ⚠️ Note
+
+Issues related to version support will be closed/deleted without response — please check compatibility before opening an issue.
+
+## 🔗 Links
+
+- Official website / download: [ellekit.space/dopamine](https://ellekit.space/dopamine/)
+- Source — [Dopamine](https://github.com/opa334/Dopamine)
+- Source — [Relaxin](https://github.com/owngoal-dev/Relaxin)
